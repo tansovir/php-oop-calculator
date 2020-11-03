@@ -56,7 +56,7 @@
                     <table class="table">
                       <thead>
                         <tr>
-                          <th>Fist Number</th>
+                          <th>First Number</th>
                           <th class="text-right"><?php echo $firstValue; ?></th>
                         </tr>
                         <tr>
